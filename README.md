@@ -1,6 +1,4 @@
 # Rental-Service
--
--
 # MongoDB
 # Express js
 # React js
