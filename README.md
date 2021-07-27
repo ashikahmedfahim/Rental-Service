@@ -2,7 +2,7 @@
 <h1 align="center">
 Rental-Service
 </h1>
-
+<hr>
 <!--lint disable no-literal-urls-->
 <p align="center">
   <a href="https://nodejs.org/">
