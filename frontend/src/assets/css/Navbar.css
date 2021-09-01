@@ -1,0 +1,19 @@
+.ml-auto {
+  margin-left: auto !important;
+}
+.mr-auto {
+  margin-right: auto !important;
+}
+
+.active a{
+  text-decoration: none !important;
+  border-bottom: 3px solid black !important;
+}
+ a{
+  text-decoration: none !important;
+}
+
+.navbar-brand {
+  border-bottom: none;
+}
+
