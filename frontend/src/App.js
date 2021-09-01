@@ -1,7 +1,6 @@
 
-
 function App() {
-  return 
+  return <div>hi</div>;
 }
 
 export default App;
