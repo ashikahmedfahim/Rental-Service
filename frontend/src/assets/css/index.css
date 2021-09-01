@@ -1,0 +1,10 @@
+body {
+  font-family: "Merienda", "Open Sans", "Arial", "Arial Narrow", Arial,
+    sans-serif !important;
+}
+.active {
+  border-bottom: none;
+}
+input {
+  width: 100%;
+}
